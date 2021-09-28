@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "108838398398",
+    "project_id": "phoneauth-1d3ab",
+    "storage_bucket": "phoneauth-1d3ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108838398398:android:0eb28b22858337368cb1ef",
+        "android_client_info": {
+          "package_name": "com.hassam.phone_verification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108838398398-sabms807sj16uqal0f42q65ii9382ucd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hassam.phone_verification",
+            "certificate_hash": "a05f85b56a0eaaf5fdfb8d2062d8df721c3c8cc8"
+          }
+        },
+        {
+          "client_id": "108838398398-g7pir7huiup28c12dljgsdusmjas7ini.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkjTSPnQBGlEGAmd_nuYpQqVCelQnhIUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108838398398-g7pir7huiup28c12dljgsdusmjas7ini.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
